@@ -1,0 +1,68 @@
+*{
+    padding: 0%;
+    margin-top: 1%;
+}
+.headerparent{
+    width: 80%;
+    margin: auto;
+}
+.logo{
+    display: inline-block;
+}
+.navbar{
+    float: right;
+}
+span{
+    font-size: 45px;
+}
+nav a{
+    padding: 10px;
+    /* margin: 4px; */
+    text-decoration: none;
+    border: solid 1px;
+    margin-top: 5px;
+}
+header{
+    background-color: rgb(104, 165, 145);
+}
+.aboutparent{
+    width: 80%;
+    margin: auto;
+}
+.image1{
+   
+    display:inline-block ;
+}
+.imgg{
+    width: 440px;
+    height: 400px;
+}
+.about{
+    float: right;
+    width: 700px;
+    font-size: 30px;
+}
+.mainparent{
+    width: 80%;
+    margin: auto;
+}
+.divLeft{
+    width: 57%;
+    display: inline-block;
+}
+.divRight{
+    width: 40%;
+   float: right;
+   background-color: rgb(104, 165, 145);
+   height: 700px;
+}
+main section .divRight div{
+    background-color:white;
+    width: 350px;
+    margin: auto;
+   
+}
+img{
+    width: 100px;
+    height: 100px;
+}
